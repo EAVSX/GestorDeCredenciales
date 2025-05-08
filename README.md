@@ -61,7 +61,9 @@ O alternativamente, usando NetBeans:
 ## 📸 Captura del sistema funcionando
 
 ![Opcion1](https://github.com/user-attachments/assets/c9990f28-308e-4250-bdb9-f470eb40b8e2)
+---
 ![Opcion 2](https://github.com/user-attachments/assets/e4f4637e-484c-405f-a1f2-8d0566a9948b)
+---
 ![Opcion 3](https://github.com/user-attachments/assets/24935fc1-32ae-4944-83ae-8b9f43c65b73)
 
 
